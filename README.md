@@ -1,6 +1,6 @@
 <h1>
 
-    Site criado para a conclusaão da materia
+    Site criado para a conclusão da materia
      de Interface Humano Computador
 
 </h1>
