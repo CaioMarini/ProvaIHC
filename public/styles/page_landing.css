@@ -1,0 +1,62 @@
+
+/*Tags*/
+
+body{
+    background-color: #DCDCDC	;
+    
+}
+
+/*IDs*/
+
+#div_content{
+    padding: 150px;
+    background-image: url(/public/images/backgroundContent.jpg);
+    background-size: 100%;
+    min-height: 340px;
+ 
+}
+
+#profile, #valor{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+/*Class*/
+
+.shadow_efct{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 100px 0 60px 0;
+    
+}
+
+.shadow_efct p{
+    padding: 0 10px 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-shadow: 2px 1px 1px black;
+    font-size: 23px;
+}
+
+.perfilTitle , .valorTitle{
+    font-size: 40px;
+    padding: 0 0 10px 0;
+    font-weight: 500;
+}
+
+.perfilTitle{
+    padding-top: 25px;
+}
+
+.perfilP, .valorP{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0 30px 0px 30px;
+}
+
+.valorP{
+    padding-bottom: 25px;
+}
