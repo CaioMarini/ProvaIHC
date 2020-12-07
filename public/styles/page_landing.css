@@ -10,7 +10,7 @@ body{
 
 #div_content{
     padding: 150px;
-    background-image: url(public/images/backgroundContent.jpg);
+    background-image: url(/public/images/backgroundContent.jpg);
     background-size: 100%;
     min-height: 340px;
  
