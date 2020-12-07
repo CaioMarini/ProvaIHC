@@ -1,0 +1,35 @@
+/* Tags*/
+body{
+    background-color: #DCDCDC;
+}
+/*Ids*/
+
+#dev{
+    height: 250px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/*Clas*/
+
+.projecTitle{
+    font-weight: 400;
+    font-size: 35px;
+    padding-top: 55px;
+}
+
+.projectSubTitle{
+    font-size: 25px;
+}
+
+.devName, .devCode{
+    
+    font-weight: 300;
+    font-size: 27px;
+    
+}
+
+.devName{
+    padding-top: 30px;
+}

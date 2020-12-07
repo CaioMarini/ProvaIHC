@@ -1,0 +1,78 @@
+/*Tags*/
+body{
+    background-color: #DCDCDC;
+}
+
+/*IDs*/
+#contactTit{
+   width: 100%;
+}
+#contactInput{
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+/*Class*/
+
+.contactTit{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 3px 0px 0 0;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.contactName,.contactEmail, .contactContent, .contactMessage{
+    height: 35px;
+    border-radius: 5px;
+    border-color: ghostwhite;
+    font-size: 22px;
+    background-color: whitesmoke;
+    text-align: center;
+    border: none;
+    
+}
+
+.contactName,.contactEmail{
+    width: 340px;  
+    margin-bottom: 20px;
+    padding: 5px 0 5px 0;
+}
+
+.contactName{
+    margin-right: 25px;
+}
+
+.contactContent{
+    width: 715px;
+    margin-bottom: 25px;
+    padding: 5px 0 5px ;
+    
+}
+
+.contactMessage{
+    
+    text-align: center;
+    width: 715px;
+    margin-bottom: 25px;
+    padding: 40px 0 35px 0;
+    resize: none;
+    overflow: hidden;
+    
+}
+
+.btnSend{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #696969;
+    color: ghostwhite;
+    padding: 7px 0 7px 0;
+    margin-bottom: 35px;
+    text-align: center;
+    width: 150px;
+    font-size: 25px;
+    font-weight: 300;
+    border-radius: 20px;
+    outline: none;
+
+}

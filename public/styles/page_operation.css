@@ -1,0 +1,48 @@
+/*Tags*/
+
+body{
+    background-color: #DCDCDC;
+}
+
+/*Ids*/
+
+#civil{
+    float: left;
+    width: 50%;
+}
+
+#family{
+    float: right;
+    width: 50%;
+}
+
+#labor{
+    float: left;
+    width: 50%;
+}
+
+#realestate{
+    float: right;
+    width: 49%;
+}
+
+#civil, #family, #labor, #realestate{
+    height: 250px;
+}
+
+#civil h1, #family h1, #labor h1, #realestate h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+    padding: 30px 0 25px 0;
+}
+
+#civil p, #family p, #labor p, #realestate p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 20px;
+    padding: 0 50px 0 50px;
+}
+
+/*Class*/

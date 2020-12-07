@@ -1,0 +1,75 @@
+/*Tags*/
+body{
+    background-color: #DCDCDC;
+}
+
+/*Ids*/
+
+#person01, #person02{
+    height: 300px;
+}
+
+#person02{
+    padding-bottom: 30px;
+}
+
+#perso01Image{
+    float: left;
+    width: 40%;
+   
+}
+#person01text{
+    float: right;
+    width: 45%;
+    
+}
+#person02Image{
+    float: left;
+    width: 40%;
+}
+#person02text{
+    float: right;
+    width: 45%;
+}
+
+
+#perso01Image, #person02Image{
+    padding: 70px 0 0 150px;   
+}
+
+#person01text, #person02text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#person02, #addressContact{
+    clear: both;
+}
+
+
+
+.imageP01, .imageP02{
+    border-radius: 10%;
+}
+
+
+    
+    
+
+
+/*Class*/
+
+
+.person01Name, .person02Name{
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+    padding: 50px 5px 20px 0;
+}
+
+.person01History, .person02History{
+
+    font-size: 20px;
+    text-shadow: 1px  #111111;
+    padding-left: 25px;
+}
